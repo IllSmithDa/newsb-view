@@ -1,0 +1,9 @@
+body {
+  height: 100%;
+  width: 100%;
+}
+.app-container {
+  margin-left: 20%;
+  margin-right: 20%;
+  background-color: gold;
+}

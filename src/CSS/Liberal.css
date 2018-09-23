@@ -1,0 +1,9 @@
+.liberal-container {
+  width: 50%;
+  background-color: rgb(214, 245, 255);
+  padding-left: 1%;
+  border: black solid 1px
+}
+.liberal-header {
+  text-align: center;
+}

@@ -1,0 +1,32 @@
+.navbar-container {
+  width: 100%;
+  height: 3em;
+  background-color: gold;
+}
+.navbar-margins {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 20%;
+  margin-right: 20%; 
+}
+.navbar-icon-item {
+  width: 15px;
+  height: 15px;
+  
+}
+.navbar-searchbar{
+  font-size: 15px;
+  margin-top: 0.7em;
+  margin-right: 0.5em;
+  width: 50%;
+}
+.app-title-container{
+    width: 50%;
+}
+.searchbar-container{
+  text-align: right;
+  width: 50%;
+}
+.app-title-item {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

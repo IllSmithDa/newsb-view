@@ -1,0 +1,12 @@
+.conservative-container {
+  width: 50%;
+  background-color: rgb(248, 209, 209);
+  padding-left: 1%;
+  border-color: black;
+  border-style: solid;
+  border-width: 1px 1px 1px 0;
+
+}
+.conservative-header{
+  text-align: center;
+}
