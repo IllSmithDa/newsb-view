@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import axios from 'axios';
 import ReqURL from './ReqURL';
-
+axios.defaults.withCredentials = true;
 export default class Liberal extends Component {
   constructor(props) {
     super(props);

@@ -4,7 +4,7 @@ import axios from 'axios';
 import reqURL from './ReqURL';
 import '../CSS/Navbar.css';
 import '../CSS/NewsTrends.css';
-
+axios.defaults.withCredentials = true;
 export default class NewsTrends extends Component {
   constructor() {
     super();

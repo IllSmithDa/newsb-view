@@ -6,6 +6,7 @@ import NewsTrends from './NewsTrends';
 import "../CSS/Homepage.css";
 import "../CSS/Conservative.css";
 import "../CSS/Liberal.css";
+axios.defaults.withCredentials = true;
 export default class Homepage extends Component {
   constructor() {
     super();
